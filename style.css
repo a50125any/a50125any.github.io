@@ -1,0 +1,40 @@
+h1 {
+    color: green;
+}
+#red {
+    color: red;
+}
+.text-lg {
+    color: blue
+}
+h3 {
+    color: tomato;
+}
+div h3 {
+    color: blue;
+}
+紅色的按鈕 {
+    color: red;
+}   
+
+
+
+h3 {
+    font-size: 50px;
+}
+h3:hover {
+    color: blue;
+}
+
+
+h1 {
+    color: green;
+    font-size: 50px;
+}
+#red {
+    color: red;
+}
+.text-lg {
+    color: blue
+
+}
